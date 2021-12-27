@@ -1,0 +1,5 @@
+Q1: why use version control tools same as Git?
+A1: To maintain and manage code development step by step
+
+Q2: what is repository? What important files does a good repository have?
+A2: Repository is location of project code and its changes and should be have Readme.md and LICENSE files.
